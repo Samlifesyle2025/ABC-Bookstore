@@ -9,7 +9,7 @@ An AI-powered chatbot for ABC Bookstore to automate support and inventory checks
 **Brief Description:** An AI-powered chatbot designed to automate customer support for ABC Bookstore. It will handle FAQs, check store hours, and eventually assist with book inventory searches to improve customer engagement and reduce staff workload.
 
 **Team Members:**
-* [Your Name]
+* Samuel Yor
 * [Gemini - AI Assistant]
 
 **Initial Goals:**
